@@ -23,6 +23,11 @@ const nextConfig: NextConfig = {
         hostname: 'i.pinimg.com',
         pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'shikimori.one',
+        pathname: '/**',
+      },
     ],
   },
 };
