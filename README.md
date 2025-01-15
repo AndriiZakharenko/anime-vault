@@ -15,6 +15,8 @@
 - Next (15)
 - Vercel
 - Typescript
+- Intersection-Observer
+- Framer Motion
 
 ### Tools
 
